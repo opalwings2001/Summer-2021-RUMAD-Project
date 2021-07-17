@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="paper_trade">text_styles
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <style name="username_or">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <style name="password">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+
+    </style>
+
+    <style name="forgot_user">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #BFC6FF
+        </item>
+
+    </style>
+
+
+    <style name="login">
+
+    <item name="android:textSize">
+        22sp
+    </item>
+
+    <item name="android:textColor">
+        #FFFFFF
+    </item>
+    </style>
+
+</resources>
